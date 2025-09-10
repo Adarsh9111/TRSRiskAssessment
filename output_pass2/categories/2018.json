@@ -1,0 +1,65 @@
+{
+  "year": 2018,
+  "categories": [
+    {
+      "name": "Funding Status",
+      "definition": "Level of assets relative to liabilities; the funded ratio indicating ability to meet obligations.",
+      "representative_snippet_id": "CAFR-FY2018_1.txt_chunk1_snip5",
+      "representative_snippet": "As of June 30, 2018, TRS is 40.7 percent funded and carries a $75 billion unfunded liability."
+    },
+    {
+      "name": "Unfunded Liability Growth",
+      "definition": "Drivers increasing the unfunded liability, including contribution shortfalls and actuarial losses.",
+      "representative_snippet_id": "CAFR-FY2018_1.txt_chunk3_snip16",
+      "representative_snippet": "The $1.9 billion net increase in the 2018 unfunded liability was caused by a combination of factors. The first factor shown in the table is the difference between actual employer/state contributions and the amount that would cover the employer/state's cost of benefits earned during the year and prevent the prior year’s unfunded liability from growing. That shortfall was $1.9 billion."
+    },
+    {
+      "name": "Statutory Funding Formula",
+      "definition": "Legal funding method diverges from actuarial standards, affecting contribution calculations and amortization timing.",
+      "representative_snippet_id": "CAFR-FY2018_1.txt_chunk1_snip19",
+      "representative_snippet": "The statutory pension funding formula in Illinois diverges from several generally-accepted actuarial funding standards."
+    },
+    {
+      "name": "Actuarial Estimates",
+      "definition": "Reliance on management and actuary assumptions that affect reported assets, liabilities, and contingent disclosures.",
+      "representative_snippet_id": "CAFR-FY2018_1.txt_chunk1_snip33",
+      "representative_snippet": "The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements as well as the reported amounts of additions to and deductions from net position during the reporting period."
+    },
+    {
+      "name": "Market Downturn Risk",
+      "definition": "Vulnerability to sustained market declines given a low funded ratio and limited capacity to absorb shocks.",
+      "representative_snippet_id": "CAFR-FY2018_1.txt_chunk1_snip10",
+      "representative_snippet": "A well-funded plan has the capacity to absorb “down years.” A plan like TRS with a funded ratio already below 50 percent would be unable to absorb any financial shocks created by a sustained downturn in the markets."
+    },
+    {
+      "name": "Derivative Counterparty Risk",
+      "definition": "Credit and counterparty exposure arising from non-exchange traded derivatives and related collateral practices.",
+      "representative_snippet_id": "CAFR-FY2018_1.txt_chunk2_snip5",
+      "representative_snippet": "Non-exchange traded derivative instruments may expose TRS to credit/counterparty risk. TRS investment managers reduce credit risk by evaluating the credit quality and operational capabilities of the counterparties. Because the counterparty risk of a security will fluctuate with market movements, all TRS managers using non-exchange traded derivatives operate a collateral call process ensuring full collateralization of these derivatives. TRS does not have a policy regarding master netting arrangements."
+    },
+    {
+      "name": "Liquidity Mismatch",
+      "definition": "Timing and maturity mismatches between loaned securities and collateral creating potential liquidity exposures.",
+      "representative_snippet_id": "CAFR-FY2018_1.txt_chunk2_snip6",
+      "representative_snippet": "Since loans are terminable at will, the maturity of loans generally does not match the maturity of collateral investments. As of June 30, 2018, TRS had outstanding loaned investment securities with a fair value of $2,350,239,549 against which it had received cash and non-cash collateral with a fair value of $2,453,194,510."
+    },
+    {
+      "name": "Illiquid Investment Commitments",
+      "definition": "Obligations to provide future capital to private funds and long-term illiquid partnerships.",
+      "representative_snippet_id": "CAFR-FY2018_1.txt_chunk2_snip8",
+      "representative_snippet": "Investments in certain limited partnerships commit TRS to possible future capital contributions. As of June 30, 2018, TRS had remaining unfunded commitments of $6,782,990,072 within the real estate, other real assets, private equity, diversifying strategies and global fixed income asset classes."
+    },
+    {
+      "name": "Fiscal Sustainability Risk",
+      "definition": "Pension contribution burdens that could consume large budget shares and be unsustainable for the state.",
+      "representative_snippet_id": "CAFR-FY2018_1.txt_chunk1_snip28",
+      "representative_snippet": "Circumstances where pension contributions represent more than 20 percent of the state’s budget likely are not sustainable."
+    },
+    {
+      "name": "Disclosure and Stress Testing",
+      "definition": "Insufficient stress testing disclosure and gaps in actuarial transparency and reporting.",
+      "representative_snippet_id": "CAFR-FY2018_1.txt_chunk3_snip15",
+      "representative_snippet": "Cheiron suggested additional disclosure on stress testing, but this has not been included in the 2018 preliminary actuarial valuation."
+    }
+  ]
+}

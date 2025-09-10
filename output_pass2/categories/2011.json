@@ -1,0 +1,65 @@
+{
+  "year": 2011,
+  "categories": [
+    {
+      "name": "Derivative Counterparty Risk",
+      "definition": "Counterparties failing to perform on non-exchange traded derivatives, causing credit losses.",
+      "representative_snippet_id": "CAFR-FY2011.txt_chunk2_snip5",
+      "representative_snippet": "Non-exchange traded derivative instruments may expose TRS to credit/counterparty risk."
+    },
+    {
+      "name": "Interest Rate Risk",
+      "definition": "Interest rate changes adversely affect fair values of interest-sensitive investments and swaps.",
+      "representative_snippet_id": "CAFR-FY2011.txt_chunk2_snip4",
+      "representative_snippet": "Both interest rate and inflation rate swaps have fair values that are sensitive to interest rate changes."
+    },
+    {
+      "name": "Market Decline Risk",
+      "definition": "Broad market declines can reduce asset values and materially affect reported plan net assets.",
+      "representative_snippet_id": "CAFR-FY2011.txt_chunk2_snip10",
+      "representative_snippet": "The System has suffered a decline in its investment portfolio subsequent to June 30, 2011. As of October 31, 2011, the market value of the assets has declined approximately $2.004 billion or 5.4 percent. These numbers represent the most current available information for both public and private market investments as compared to June 30, 2011. The decline in asset values is the result of a continued worldwide economic slowdown."
+    },
+    {
+      "name": "Issuer Credit Risk",
+      "definition": "Risk that issuers or counterparties will not fulfill their obligations to the fund.",
+      "representative_snippet_id": "CAFR-FY2011.txt_chunk1_snip8",
+      "representative_snippet": "Credit risk is the risk that an issuer or other counterparty to an investment will not fulfill its obligations to TRS."
+    },
+    {
+      "name": "Funding Policy Risk",
+      "definition": "Statutory contribution rules that lower payments versus prudent policy, delaying achievement of full funding.",
+      "representative_snippet_id": "CAFR-FY2011.txt_chunk3_snip3",
+      "representative_snippet": "The contributions to the System are based on the provisions of Public Act 94-0004, as amended by subsequent acts. The actuary and the Board are required to follow Public Act 94-0004 for purposes of developing contributions to the System. Public Act 94-0004 has resulted in contributions to the System much less than those that would be contributed under a prudent funding policy. Under a prudent funding policy, a funded ratio of 100% would be achieved within 30 years as opposed to the 90% funded ratio achieved by 2045 under Public Act 94-0004."
+    },
+    {
+      "name": "Actuarial Experience Risk",
+      "definition": "Unexpected demographic or service experience producing actuarial losses and increasing liabilities.",
+      "representative_snippet_id": "CAFR-FY2011.txt_chunk3_snip7",
+      "representative_snippet": "In both years, actuarial losses occurred under the mortality assumptions because fewer people died than expected. Actuarial losses were also incurred under the turnover assumption because fewer people left service than assumed. Additionally, many members repaid refunds, and the repurchased service increased the unfunded liability. Delayed reporting of retirements also increased the unfunded liability because more people were receiving benefits than expected."
+    },
+    {
+      "name": "Unfunded Liability Risk",
+      "definition": "Growth in the unfunded actuarial accrued liability and declining funded ratio increases fiscal strain.",
+      "representative_snippet_id": "CAFR-FY2011.txt_chunk1_snip5",
+      "representative_snippet": "The unfunded actuarial accrued liability increased from $39.9 billion at June 30, 2010 to $43.5 billion at June 30, 2011. The funded ratio decreased from 48.4 percent at June 30, 2010 to 46.5 percent at June 30, 2011."
+    },
+    {
+      "name": "State Funding Uncertainty",
+      "definition": "Uncertain state appropriations cause variable certified contribution amounts and funding unpredictability.",
+      "representative_snippet_id": "CAFR-FY2011.txt_chunk3_snip10",
+      "representative_snippet": "For FY12, two amounts were certified due to uncertainty over state appropriations during FY11."
+    },
+    {
+      "name": "Custodial Credit Risk",
+      "definition": "Risk deposits may not be returned if a bank fails; addressed by formal TRS policy.",
+      "representative_snippet_id": "CAFR-FY2011.txt_chunk1_snip7",
+      "representative_snippet": "Custodial credit risk for deposits is the risk that, in the event of a bank failure, TRS’s deposits may not be returned. TRS has a formal policy to address custodial credit risk."
+    },
+    {
+      "name": "Asset Valuation Smoothing",
+      "definition": "Use of smoothed actuarial asset values and deferrals affects reported contributions and conceals market volatility.",
+      "representative_snippet_id": "CAFR-FY2011.txt_chunk3_snip8",
+      "representative_snippet": "As of the June 30, 2011 valuation the total net deferral is a $298,485,778 loss, resulting in a contribution that is lower than it would be if the assets were valued at market."
+    }
+  ]
+}

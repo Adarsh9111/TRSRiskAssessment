@@ -1,0 +1,65 @@
+{
+  "year": 2012,
+  "categories": [
+    {
+      "name": "Funding Level Risk",
+      "definition": "Insufficient funded ratio threatening solvency and ability to meet benefit obligations.",
+      "representative_snippet_id": "CAFR-FY2012.txt_chunk1_snip13",
+      "representative_snippet": "The funded ratio decreased from 46.5 percent at June 30, 2011 to 42.1 percent at June 30, 2012."
+    },
+    {
+      "name": "Unfunded Liability Size",
+      "definition": "Large unfunded actuarial liabilities requiring significant future state funding.",
+      "representative_snippet_id": "CAFR-FY2012.txt_chunk1_snip5",
+      "representative_snippet": "TRS’s unfunded liability stands at $52 billion."
+    },
+    {
+      "name": "Investment Performance Risk",
+      "definition": "Risk of investment losses or poor returns reducing plan assets.",
+      "representative_snippet_id": "CAFR-FY2012.txt_chunk3_snip4",
+      "representative_snippet": "The System incurred a loss of $2,910,862,678 in FY 2012."
+    },
+    {
+      "name": "Assumption Change Risk",
+      "definition": "Liability increases from lowered return, salary and mortality assumption changes.",
+      "representative_snippet_id": "CAFR-FY2012.txt_chunk3_snip8",
+      "representative_snippet": "The $4.6 billion net increase in the unfunded liability was due to three major factors: a reduction in the assumed rate of return (from 8.5 percent to 8.0 percent), a reduction in the salary increase assumption (from an average of 7.0 percent to 6.0 percent), and mortality improvements that are expected to continue over future generations."
+    },
+    {
+      "name": "Asset Smoothing Risk",
+      "definition": "Smoothing deferrals distort contributions relative to market values.",
+      "representative_snippet_id": "CAFR-FY2012.txt_chunk3_snip5",
+      "representative_snippet": "Per statutory requirement, 20% is recognized in the actuarial value of assets as of June 30, 2012, and recognition of the remaining 80%, or $2,328,690,142, will be deferred and recognized in equal amounts over the next four valuations. Depending on the whether the total net deferral is an investment gain or loss, the smoothing method will produce a contribution rate that is more or less than the rate based on the market value. As of the June 30, 2012 valuation the total net deferral is a $1,428,571,872 loss, resulting in a contribution that is lower than it would be if the assets were valued at market."
+    },
+    {
+      "name": "Derivatives Counterparty Risk",
+      "definition": "Concentrated non-exchange traded derivative exposures with few counterparties elevating default risk.",
+      "representative_snippet_id": "CAFR-FY2012.txt_chunk2_snip5",
+      "representative_snippet": "Although the derivative instruments held within the TRS investment portfolio are executed with various counterparties, approximately 85 percent of the net market value exposure to credit risk is for non-exchange traded derivative contracts held with seven counterparties."
+    },
+    {
+      "name": "Market Volatility Risk",
+      "definition": "Global market fluctuations that can materially reduce asset values.",
+      "representative_snippet_id": "CAFR-FY2012.txt_chunk2_snip17",
+      "representative_snippet": "Global financial markets experienced significant volatility through the fiscal year ended June 30, 2012."
+    },
+    {
+      "name": "Securities Lending Risk",
+      "definition": "Risks in securities lending from borrowers failing to return securities or inadequate collateral.",
+      "representative_snippet_id": "CAFR-FY2012.txt_chunk2_snip7",
+      "representative_snippet": "The contract with TRS’s lending agent requires the agent to indemnify TRS if the borrowers fail to return the securities (and if the collateral is inadequate to replace the securities lent) or fail to pay TRS for income distributions by the securities issuers while the securities are on loan."
+    },
+    {
+      "name": "Private Equity Implementation Risk",
+      "definition": "Achieving private equity targets depends on market conditions and availability of quality opportunities.",
+      "representative_snippet_id": "CAFR-FY2012.txt_chunk2_snip27",
+      "representative_snippet": "Successful implementation of this target is subject to many factors, including public market performance and sufficient availability of high quality private equity opportunities in the market."
+    },
+    {
+      "name": "State Fiscal Risk",
+      "definition": "State fiscal weakness undermines pension sustainability and funding commitments.",
+      "representative_snippet_id": "CAFR-FY2012.txt_chunk1_snip1",
+      "representative_snippet": "The long-term sustainability of the System, however, remains uncertain due to the bleak fiscal condition of the State of Illinois."
+    }
+  ]
+}

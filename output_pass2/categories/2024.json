@@ -1,0 +1,65 @@
+{
+  "year": 2024,
+  "categories": [
+    {
+      "name": "Funding Adequacy",
+      "definition": "State of actuarial funding and unfunded liabilities affecting plan sustainability.",
+      "representative_snippet_id": "ACFR-FY24-web_0 (2).txt_chunk1_snip14",
+      "representative_snippet": "The unfunded actuarial accrued liability was $83.6 billion at June 30, 2024. The funded ratio was 45.8 percent at June 30, 2024."
+    },
+    {
+      "name": "Actuarial Assumptions",
+      "definition": "Reliance on actuarial assumptions and measurement methods that affect pension liability calculations.",
+      "representative_snippet_id": "ACFR-FY24-web_0 (2).txt_chunk1_snip4",
+      "representative_snippet": "The actuarially determined net pension liability, calculated as required by GASB Statement No. 67, Financial Reporting for Pension Plans, is dependent on several assumptions including the assumption that future required contributions from all sources are made based on statutory requirements in existence as of the date of this report."
+    },
+    {
+      "name": "Contribution Shortfalls",
+      "definition": "Employer and state contributions falling short of actuarial cost, increasing unfunded liabilities.",
+      "representative_snippet_id": "ACFR-FY24-web_0 (2).txt_chunk3_snip5",
+      "representative_snippet": "The $1.7 billion net increase in the 2024 unfunded liability was caused by a combination of factors. The first factor shown in the reconciliation table is the difference between actual employer/state contributions and the amount that would cover the employer/state's cost of benefits earned during the year and prevent the prior year’s unfunded liability from growing. That shortfall was $525 million."
+    },
+    {
+      "name": "Market Risk",
+      "definition": "Exposure to market volatility, inflation, and geopolitical events that can reduce asset values.",
+      "representative_snippet_id": "ACFR-FY24-web_0 (2).txt_chunk2_snip14",
+      "representative_snippet": "Due to the under-funded status of TRS, the System’s primary objective is to protect member assets against large market downturns caused by economic unpredictability, as experienced within the year."
+    },
+    {
+      "name": "Derivative Counterparty Risk",
+      "definition": "Concentration and default risk from non-exchange traded derivative counterparties.",
+      "representative_snippet_id": "ACFR-FY24-web_0 (2).txt_chunk2_snip21",
+      "representative_snippet": "Although the derivative instruments held within the TRS investment portfolio are executed with various counterparties, approximately 98 percent of the fair value exposure to credit risk is for non-exchange traded derivative contracts held with 10 counterparties."
+    },
+    {
+      "name": "Interest Rate Risk",
+      "definition": "Potential losses from changes in interest rates affecting fixed income and derivative valuations.",
+      "representative_snippet_id": "ACFR-FY24-web_0 (2).txt_chunk2_snip11",
+      "representative_snippet": "TRS is exposed to interest rate risk on various derivative instruments, including swaptions and options."
+    },
+    {
+      "name": "Partnership Illiquidity",
+      "definition": "Long-term, illiquid private partnerships with limited or no redemption options.",
+      "representative_snippet_id": "ACFR-FY24-web_0 (2).txt_chunk2_snip20",
+      "representative_snippet": "These partnerships are not eligible for redemption, considered illiquid and have an approximate life of six to 20 years."
+    },
+    {
+      "name": "NAV Valuation Uncertainty",
+      "definition": "Probability investments will sell for amounts different than reported net asset values.",
+      "representative_snippet_id": "ACFR-FY24-web_0 (2).txt_chunk2_snip16",
+      "representative_snippet": "As of June 30, 2024, it is probable that all investments in this type will be sold at an amount different from the current NAV of the Plan’s ownership interest."
+    },
+    {
+      "name": "Securities Lending Reporting",
+      "definition": "Collateral from securities lending is restricted and not reported in financial statements.",
+      "representative_snippet_id": "ACFR-FY24-web_0 (2).txt_chunk2_snip29",
+      "representative_snippet": "TRS does not have the authority to pledge or sell collateral securities without borrower default; as such, the collateral security or non-cash collateral is not reported in TRS’s financial statements in accordance with GASB Statement No. 28, \"Accounting and Financial Reporting for Securities Lending Transactions.\""
+    },
+    {
+      "name": "Operational Cybersecurity Risk",
+      "definition": "IT and cybersecurity risks to operations and system resilience.",
+      "representative_snippet_id": "ACFR-FY24-web_0 (2).txt_chunk1_snip13",
+      "representative_snippet": "TRS is advancing its information technology and cybersecurity capabilities with a newly updated roadmap aimed at minimizing risk and enhancing system resilience."
+    }
+  ]
+}

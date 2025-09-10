@@ -1,0 +1,65 @@
+{
+  "year": 2016,
+  "categories": [
+    {
+      "name": "State Funding Shortfall",
+      "definition": "Chronic underfunding by the State, historically insufficient contributions to meet actuarial standards.",
+      "representative_snippet_id": "CAFR-FY2016.txt_chunk1_snip4",
+      "representative_snippet": "Since its founding in 1939, the State of Illinois has never, in any year, funded TRS at a level that standard actuarial practice would define as sufficient to pay its full share of the System’s annual required contribution. In the last decade, for example, actual contributions from the state to TRS fell below the actuarial full-funding standard by an average of $660 million per year."
+    },
+    {
+      "name": "Budgetary Uncertainty",
+      "definition": "Partisan conflicts and lack of enacted budgets create uncertainty about state commitments and system operations.",
+      "representative_snippet_id": "CAFR-FY2016.txt_chunk1_snip2",
+      "representative_snippet": "Due to partisan differences over public policy questions, the legislative and executive branches of Illinois government failed to reach an agreement on a FY16 state budget during the entire 12-month period."
+    },
+    {
+      "name": "Unfunded Liability",
+      "definition": "Large actuarial shortfall and low funded ratio indicating substantial underfunding.",
+      "representative_snippet_id": "CAFR-FY2016.txt_chunk1_snip8",
+      "representative_snippet": "The unfunded actuarial accrued liability was $71.4 billion at June 30, 2016. The funded ratio was 39.8 percent at June 30, 2016."
+    },
+    {
+      "name": "Actuarial Assumption Changes",
+      "definition": "Revisions to actuarial assumptions that materially increased pension liabilities and funding needs.",
+      "representative_snippet_id": "CAFR-FY2016.txt_chunk2_snip27",
+      "representative_snippet": "In FY16, changes in actuarial assumptions increased the total pension liability by $7.6 billion."
+    },
+    {
+      "name": "Investment Performance Risk",
+      "definition": "Poor returns and global market volatility reducing asset values and investment income.",
+      "representative_snippet_id": "CAFR-FY2016.txt_chunk1_snip6",
+      "representative_snippet": "The System’s investment return of 4.57 percent, gross of fees, (3.95 percent, net of fees) at the end of FY15 declined dramatically to 0.69 percent gross of fees and 0.01 percent net of fees in FY16."
+    },
+    {
+      "name": "Derivative Counterparty Risk",
+      "definition": "Credit and counterparty exposure from derivative transactions, especially non-exchange traded instruments.",
+      "representative_snippet_id": "CAFR-FY2016.txt_chunk2_snip13",
+      "representative_snippet": "Non-exchange traded derivative instruments may expose TRS to credit/counterparty risk."
+    },
+    {
+      "name": "Derivative Concentration Risk",
+      "definition": "Concentration of derivative exposures with few counterparties, increasing potential systemic counterparty impact.",
+      "representative_snippet_id": "CAFR-FY2016.txt_chunk2_snip18",
+      "representative_snippet": "Although the derivative instruments held within the TRS investment portfolio are executed with various counterparties, approximately 92 percent of the net market value exposure to credit risk is for non-exchange traded derivative contracts held with 13 counterparties."
+    },
+    {
+      "name": "Currency Exposure",
+      "definition": "FX forward positions causing unrealized losses and settlement exposure.",
+      "representative_snippet_id": "CAFR-FY2016.txt_chunk2_snip7",
+      "representative_snippet": "As of June 30, 2016, TRS’s open currency forward contracts had a net fair value (unrealized loss) of $35,206,878."
+    },
+    {
+      "name": "Private Equity Commitments",
+      "definition": "Large unfunded commitments to illiquid alternatives, constraining liquidity and future capital needs.",
+      "representative_snippet_id": "CAFR-FY2016.txt_chunk2_snip20",
+      "representative_snippet": "As of June 30, 2016, TRS had remaining unfunded commitments of $6,307,650,888 within the real estate, private equity, global fixed income and real return asset classes."
+    },
+    {
+      "name": "Securities Lending Mismatch",
+      "definition": "Maturity and collateral mismatches in securities lending that can create settlement or liquidity timing risks.",
+      "representative_snippet_id": "CAFR-FY2016.txt_chunk2_snip3",
+      "representative_snippet": "Since loans are terminable at will, the maturity of loans generally does not match the maturity of collateral investments."
+    }
+  ]
+}

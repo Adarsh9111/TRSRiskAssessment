@@ -1,0 +1,65 @@
+{
+  "year": 2019,
+  "categories": [
+    {
+      "name": "Funded Ratio",
+      "definition": "Percentage of assets to liabilities; low ratios indicate financial vulnerability and limited cushion.",
+      "representative_snippet_id": "CAFR-FY2019_1.txt_chunk1_snip2",
+      "representative_snippet": "TRS ended FY19 with a funded ratio of 40.6 percent, which is one of the lowest in the nation for a retirement system its size."
+    },
+    {
+      "name": "Unfunded Liability Size",
+      "definition": "Total actuarial shortfall required to fully fund promised benefits; represents pension debt magnitude.",
+      "representative_snippet_id": "CAFR-FY2019_1.txt_chunk2_snip12",
+      "representative_snippet": "The additional amount needed (the unfunded actuarial accrued liability) as calculated by the actuary was $78.1 billion in FY19, based on the actuarial value of assets."
+    },
+    {
+      "name": "State Funding Risk",
+      "definition": "Risk from inadequate or unsustainable state contributions and statutory formulas affecting pension solvency.",
+      "representative_snippet_id": "CAFR-FY2019_1.txt_chunk1_snip11",
+      "representative_snippet": "The circumstances in Illinois, where pension contributions in FY19 represented 24 percent of the state’s General Funds budget, may not be sustainable over time as other priorities and services vie for limited state resources."
+    },
+    {
+      "name": "Investment Performance Risk",
+      "definition": "Risk that fund returns underperform benchmarks or actuarial assumptions, increasing liabilities and funding pressure.",
+      "representative_snippet_id": "CAFR-FY2019_1.txt_chunk2_snip14",
+      "representative_snippet": "The fund’s total return also underperformed the 7.0 percent actuarial return assumption and the real rate of return expectation, which is to exceed the rate of inflation, as measured by the Consumer Price Index, by 4.5 percentage points."
+    },
+    {
+      "name": "Interest Rate Risk",
+      "definition": "Exposure to changes in interest rates that can reduce fixed-income values and affect portfolio positioning.",
+      "representative_snippet_id": "CAFR-FY2019_1.txt_chunk3_snip5",
+      "representative_snippet": "The rapid U.S. interest rate decline is reflective of the underweight to U.S. treasury bills."
+    },
+    {
+      "name": "Counterparty/Credit Risk",
+      "definition": "Risk of counterparty default from derivatives or non-exchange traded instruments causing potential losses.",
+      "representative_snippet_id": "CAFR-FY2019_1.txt_chunk2_snip5",
+      "representative_snippet": "Non-exchange traded derivative instruments may expose TRS to credit/counterparty risk."
+    },
+    {
+      "name": "Commitment Risk",
+      "definition": "Obligations to provide future capital to private funds and partnerships, potentially straining liquidity.",
+      "representative_snippet_id": "CAFR-FY2019_1.txt_chunk2_snip9",
+      "representative_snippet": "As of June 30, 2019, TRS had remaining unfunded commitments of $8,397,888,687 within the real estate, other real assets, private equity, diversifying strategies and global fixed income asset classes."
+    },
+    {
+      "name": "Buyout Contingency Risk",
+      "definition": "Risk that accelerated benefit buyouts depend on external bond proceeds, creating payment uncertainty.",
+      "representative_snippet_id": "CAFR-FY2019_1.txt_chunk4_snip1",
+      "representative_snippet": "Buyout payments are contingent upon sufficient bond proceeds being available."
+    },
+    {
+      "name": "Actuarial/Experience Risk",
+      "definition": "Unfavorable actuarial experience or assumption changes that increase liabilities or produce actuarial losses.",
+      "representative_snippet_id": "CAFR-FY2019_1.txt_chunk3_snip13",
+      "representative_snippet": "The valuation indicates that for the fiscal year ending June 30, 2019, the actuarial experience of TRS was unfavorable, generating a net actuarial loss of $942 million (0.7% of the actuarial accrued liability)."
+    },
+    {
+      "name": "Liquidity Management Risk",
+      "definition": "Risk of insufficient cash or liquid assets to meet benefit payments, especially with low funding levels.",
+      "representative_snippet_id": "CAFR-FY2019_1.txt_chunk1_snip4",
+      "representative_snippet": "For example, a top priority in a low-funded retirement system is the management of liquidity to ensure that all benefits can be paid."
+    }
+  ]
+}

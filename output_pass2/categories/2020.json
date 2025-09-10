@@ -1,0 +1,65 @@
+{
+  "year": 2020,
+  "categories": [
+    {
+      "name": "Pandemic Mortality",
+      "definition": "Deaths among members due to COVID-19 and related complications affecting membership and benefits.",
+      "representative_snippet_id": "FY20CAFR-Web.txt_chunk4_snip5",
+      "representative_snippet": "At press time, 177 TRS members have died because of COVID-19 or complications related to the virus."
+    },
+    {
+      "name": "Investment Performance",
+      "definition": "Risk from market volatility causing portfolio underperformance versus benchmarks and actuarial assumptions.",
+      "representative_snippet_id": "FY20CAFR-Web.txt_chunk2_snip10",
+      "representative_snippet": "As illustrated, the TRS total fund underperformed the policy index by 490 basis points for the year ended June 30, 2020. The fund’s total return also underperformed the 7.0 percent actuarial return assumption and the real rate of return expectation, which is to exceed the rate of inflation, as measured by the Consumer Price Index, by 4.5 percentage points."
+    },
+    {
+      "name": "Funding Adequacy",
+      "definition": "Insufficient assets relative to long-term benefit obligations producing large unfunded liabilities.",
+      "representative_snippet_id": "FY20CAFR-Web.txt_chunk1_snip2",
+      "representative_snippet": "TRS ended FY20 with a funded ratio of 40.5 percent. The System had an actuarial value of $54.9 billion in assets and a long-term benefit obligation of $135.6 billion, which creates an unfunded liability of $80.7 billion."
+    },
+    {
+      "name": "Derivative Counterparty Risk",
+      "definition": "Credit exposure from non-exchange traded derivative contracts concentrated with a few counterparties.",
+      "representative_snippet_id": "FY20CAFR-Web.txt_chunk2_snip6",
+      "representative_snippet": "Although the derivative instruments held within the TRS investment portfolio are executed with various counterparties, approximately 94 percent of the net market value exposure to credit risk is for non-exchange traded derivative contracts held with 10 counterparties."
+    },
+    {
+      "name": "Securities Lending Risk",
+      "definition": "Risks from securities lending including collateral non-reporting and mismatched maturities due to terminable loans.",
+      "representative_snippet_id": "FY20CAFR-Web.txt_chunk2_snip3",
+      "representative_snippet": "TRS does not have the authority to pledge or sell collateral securities without borrower default; as such, the collateral security or non-cash collateral is not reported in TRS’s financial statements in accordance with GASB Statement No. 28, \"Accounting and Financial Reporting for Securities Lending Transactions.\" as securities on loan can be recalled on demand by TRS or the borrower can return the loaned securities at any time. Since loans are terminable at will, the maturity of loans generally does not match the maturity of collateral investments."
+    },
+    {
+      "name": "Illiquidity and Commitments",
+      "definition": "Long-term private investment commitments that restrict redemption and limit timely exits.",
+      "representative_snippet_id": "FY20CAFR-Web.txt_chunk2_snip11",
+      "representative_snippet": "Investments in limited partnerships are normally long-term with an approximate life of 10 to 15 years and considered illiquid. Investors are subject to redemption restrictions which limit and restrict the ability of limited partners to exit prior to dissolution."
+    },
+    {
+      "name": "Actuarial Valuation Timing",
+      "definition": "Valuation results dependent on measurement date; market changes after valuation can materially alter outcomes.",
+      "representative_snippet_id": "FY20CAFR-Web.txt_chunk3_snip3",
+      "representative_snippet": "It is important to note that this actuarial valuation is based on plan assets as of June 30, 2020.  Due to the COVID-19 pandemic, market conditions have changed significantly since the valuation date. TRS’ actuarial funded status does not reflect short term fluctuations of the market, but rather is based on the fair values on the last day of the plan year. While it is impossible to determine how the market will perform over the next several months, and how that will affect the results of next year’s valuation, Segal is available to prepare projections of potential outcomes upon request."
+    },
+    {
+      "name": "Contribution Shortfalls",
+      "definition": "Employer/state contributions falling short of required amounts, increasing unfunded liabilities.",
+      "representative_snippet_id": "FY20CAFR-Web.txt_chunk3_snip9",
+      "representative_snippet": "The first factor shown in the table is the difference between actual employer/state contributions and the amount that would cover the employer/state's cost of benefits earned during the year and prevent the prior year’s unfunded liability from growing.  That shortfall was $1.6 billion."
+    },
+    {
+      "name": "Cybersecurity Risk",
+      "definition": "Threats to members' private information requiring protective systems and practices.",
+      "representative_snippet_id": "FY20CAFR-Web.txt_chunk1_snip4",
+      "representative_snippet": "Because pension systems provide tempting targets, it is imperative for the System to keep the private information of 427,321 men, women and their families, as well as 990 employers as safe and secure as possible by implementing practices and systems that guard against these changing threats."
+    },
+    {
+      "name": "Concentration Credit Risk",
+      "definition": "Loss risk from large investment exposure to a single issuer or limited issuers.",
+      "representative_snippet_id": "FY20CAFR-Web.txt_chunk1_snip13",
+      "representative_snippet": "Concentration of credit risk is the risk of loss that may be attributed to the magnitude of an investment in any one issuer."
+    }
+  ]
+}

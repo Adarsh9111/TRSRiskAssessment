@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "Funding Adequacy & Policy",
+      "definition": "Risks from insufficient statutory or actual contributions, funding methods, and unfunded liabilities undermining long‑term plan solvency.",
+      "criteria": [
+        "Statutory funding formulas and amortization",
+        "Employer/state contribution shortfalls or delays",
+        "Certified vs collected contribution variability",
+        "Unfunded liability size and growth",
+        "Fiscal sustainability and budget burden"
+      ]
+    },
+    {
+      "name": "Actuarial & Measurement Risk",
+      "definition": "Risks from actuarial assumptions, demographic experience, valuation methods, timing, and data/estimate errors that change reported liabilities.",
+      "criteria": [
+        "Assumption changes (returns, mortality, salary)",
+        "Demographic and service experience deviations",
+        "Valuation timing and methodology effects",
+        "Data quality and management estimates",
+        "Recognition of actuarial gains/losses"
+      ]
+    },
+    {
+      "name": "Market, Liquidity & Valuation",
+      "definition": "Risks from market movements, interest rates, currency, illiquid investments, redemption restrictions, and asset valuation (NAV) uncertainty.",
+      "criteria": [
+        "Market performance and volatility",
+        "Interest‑rate and duration sensitivity",
+        "Currency and FX exposures",
+        "Illiquid commitments and redemption limits",
+        "Liquidity mismatches affecting benefit cashflows",
+        "NAV and asset valuation uncertainty"
+      ]
+    },
+    {
+      "name": "Credit, Counterparty & Concentration",
+      "definition": "Risks of loss from issuer or counterparty default, custodial failures, collateral practices, derivatives counterparties, and concentrated exposures.",
+      "criteria": [
+        "Non‑exchange derivative counterparty default exposure",
+        "Securities‑lending collateral and borrower risk",
+        "Custodial credit and deposit risk",
+        "Concentration in issuers or counterparties",
+        "Credit derivative and written protection exposures"
+      ]
+    },
+    {
+      "name": "Operational, Legal & Governance",
+      "definition": "Risks from inadequate policies, controls, technology, cybersecurity, legal/legislative changes, contingent obligations, and disclosure failures.",
+      "criteria": [
+        "Policy, control, and reporting gaps",
+        "Operational and technology failures or transitions",
+        "Cybersecurity and data confidentiality threats",
+        "Legal, legislative, or litigation uncertainty",
+        "Contingent benefit provisions and disclosure/stress testing gaps"
+      ]
+    }
+  ]
+}

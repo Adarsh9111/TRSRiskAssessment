@@ -1,0 +1,65 @@
+{
+  "year": 2022,
+  "categories": [
+    {
+      "name": "Derivatives Risk",
+      "definition": "Risk from derivative positions including counterparty and market exposures, especially non-exchange traded contracts.",
+      "representative_snippet_id": "ACFR22-web_0.txt_chunk2_snip4",
+      "representative_snippet": "Non-exchange traded derivative instruments may expose TRS to credit/counterparty risk."
+    },
+    {
+      "name": "Funding Adequacy",
+      "definition": "Risk that statutory funding methods and state contributions are inadequate to properly fund pension liabilities.",
+      "representative_snippet_id": "ACFR22-web_0.txt_chunk3_snip2",
+      "representative_snippet": "The State funding has been inadequate, resulting in TRS being among the worst funded public employee retirement systems in the United States."
+    },
+    {
+      "name": "Market Volatility",
+      "definition": "Risk that market movements and economic events materially affect investment values and fiduciary net position.",
+      "representative_snippet_id": "ACFR22-web_0.txt_chunk1_snip3",
+      "representative_snippet": "Increased market volatility, lowered economic growth forecasts, rising interest rates and geopolitics influenced markets with few options for capital preservation."
+    },
+    {
+      "name": "Actuarial Experience",
+      "definition": "Risk from demographic and salary assumption deviations causing actuarial losses and higher costs.",
+      "representative_snippet_id": "ACFR22-web_0.txt_chunk3_snip7",
+      "representative_snippet": "Actuarial losses occurred under the assumptions for salary increases, retirements other than expected, terminations and rehires (members coming back into teaching service), meaning that experience was less favorable (more costly) than assumed."
+    },
+    {
+      "name": "Contribution Shortfall",
+      "definition": "Risk arising when employer/state contributions fall short of actuarial cost, increasing unfunded liabilities.",
+      "representative_snippet_id": "ACFR22-web_0.txt_chunk3_snip6",
+      "representative_snippet": "The first factor shown in the table is the difference between actual employer/state contributions and the amount that would cover the employer/state's cost of benefits earned during the year and prevent the prior year’s unfunded liability from growing. That shortfall was $610 million."
+    },
+    {
+      "name": "Illiquidity Risk",
+      "definition": "Risk that long-term partnership investments are illiquid and cannot be redeemed when needed.",
+      "representative_snippet_id": "ACFR22-web_0.txt_chunk2_snip14",
+      "representative_snippet": "These partnerships are not eligible for redemption, considered illiquid and have an approximate life of six to 20 years."
+    },
+    {
+      "name": "Unfunded Commitments",
+      "definition": "Risk from large remaining unfunded private asset commitments requiring future capital calls.",
+      "representative_snippet_id": "ACFR22-web_0.txt_chunk2_snip12",
+      "representative_snippet": "As of June 30, 2022, TRS had remaining unfunded commitments of $13,175,007,449 within the real estate, other real assets, private equity, diversifying strategies and global income asset classes."
+    },
+    {
+      "name": "NAV/Valuation Risk",
+      "definition": "Risk that NAV-based fair value measurements and redemptions differ from realized sale proceeds.",
+      "representative_snippet_id": "ACFR22-web_0.txt_chunk2_snip15",
+      "representative_snippet": "As of June 30, 2022, it is probable that all investments in this type will be sold at an amount different from the current NAV of the Plan’s ownership interest."
+    },
+    {
+      "name": "Securities Lending",
+      "definition": "Risk related to securities-lending collateral restrictions and lack of authority to pledge non-cash collateral.",
+      "representative_snippet_id": "ACFR22-web_0.txt_chunk2_snip22",
+      "representative_snippet": "TRS does not have the authority to pledge or sell collateral securities without borrower default; as such, the collateral security or non-cash collateral is not reported in TRS’s financial statements in accordance with GASB Statement No. 28, \"Accounting and Financial Reporting for Securities Lending Transactions.\""
+    },
+    {
+      "name": "Credit Derivatives",
+      "definition": "Risk from written credit default swaps and similar instruments that increase credit exposure.",
+      "representative_snippet_id": "ACFR22-web_0.txt_chunk2_snip9",
+      "representative_snippet": "Written credit default swaps increase credit exposure (selling protection), obligating the portfolio to buy debt from counterparties in the event of a default."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "year": 2013,
+  "categories": [
+    {
+      "name": "Funding Status",
+      "definition": "Risk that the system remains underfunded, reducing ability to meet long-term obligations.",
+      "representative_snippet_id": "CAFR-FY2013.txt_chunk1_snip4",
+      "representative_snippet": "TRS's funded ratio at the end of the fiscal year stood at 40.6 percent, on an actuarial basis, with a total long-term unfunded liability of $55.7 billion."
+    },
+    {
+      "name": "Employer Contribution Shortfall",
+      "definition": "Shortfall between employer contributions and cost to fund benefits, increasing the unfunded liability.",
+      "representative_snippet_id": "CAFR-FY2013.txt_chunk3_snip4",
+      "representative_snippet": "The  employer  cost  in  excess  of  contributions  is  the  shortfall  between  actual  employer  contributions  and  the amount needed to cover the cost of benefits earned during the year and to keep the unfunded liability from growing. In 2013, this shortfall was $2.1 billion and in 2012 it was $2.7 billion."
+    },
+    {
+      "name": "Legislative Risk",
+      "definition": "Laws or legal challenges can alter funding structure or reduce member benefits.",
+      "representative_snippet_id": "CAFR-FY2013.txt_chunk2_snip14",
+      "representative_snippet": "On December 5, 2013, Governor Pat Quinn signed Public Act 98-0599 into law. This new law takes effect no earlier than June 1, 2014 and would significantly alter the overall  funding structure of TRS and reduce retirement benefits for Tier I members."
+    },
+    {
+      "name": "Market Performance Risk",
+      "definition": "Negative investment returns or allocation choices that produce excess losses versus benchmarks.",
+      "representative_snippet_id": "CAFR-FY2013.txt_chunk2_snip19",
+      "representative_snippet": "Negative excess returns were driven by the portfolio’s defensive sector positioning relative to the index and the portfolio’s modest overweight to emerging market equities."
+    },
+    {
+      "name": "Derivatives Counterparty Risk",
+      "definition": "Concentration in non-exchange derivatives with limited counterparties raises credit and default exposure.",
+      "representative_snippet_id": "CAFR-FY2013.txt_chunk2_snip8",
+      "representative_snippet": "Although the derivative instruments held within the TRS investment portfolio are executed with various counter-parties, approximately 88 percent of the net market value exposure to credit risk is for non-exchange traded derivative contracts held with nine counterparties."
+    },
+    {
+      "name": "Securities Lending Risk",
+      "definition": "Securities lending market weakness or agent transitions can materially reduce lending income.",
+      "representative_snippet_id": "CAFR-FY2013.txt_chunk3_snip1",
+      "representative_snippet": "For the year ended June 30, 2013, TRS earned net income of $13.9 million through its securities lending program. The decrease from prior year was driven primarily by a weaker securities lending market. The global equity rally, combined with the uncertainty of regulatory changes, resulted in the market producing fewer short posi-\ntions required to be covered by broker/dealers. The securities lending market experienced significant spread compression, or decrease in lending fees, creating a reduction in hard to borrow “specials” resulting in lower return to lendable."
+    },
+    {
+      "name": "Actuarial Assumption Risk",
+      "definition": "Deviations in salary, mortality, turnover, or assumed returns causing actuarial losses.",
+      "representative_snippet_id": "CAFR-FY2013.txt_chunk3_snip6",
+      "representative_snippet": "Salary increases for continuing active members were $413 million lower than expected in 2013 and $1.2 billion lower than expected in 2012. Under the investment return assumption, losses occurred both years. In FY13, smoothed assets were assumed to earn $3.0 billion, but earnings were actually $1.4 billion. The actuarial loss due to investments was $1.6 billion in FY13, compared to a loss of $1.8 billion in FY12."
+    },
+    {
+      "name": "Commitments/Liquidity Risk",
+      "definition": "Large future investment commitments may strain liquidity and funding for purchases.",
+      "representative_snippet_id": "CAFR-FY2013.txt_chunk2_snip21",
+      "representative_snippet": "As of June 30, 2013, TRS had commitments for the future purchase of investments in real estate of $551.3 million and private equity partnerships of $3,034.1 million."
+    },
+    {
+      "name": "Emerging Markets Risk",
+      "definition": "Emerging market equity underperformance or macro concerns can significantly reduce returns.",
+      "representative_snippet_id": "CAFR-FY2013.txt_chunk2_snip17",
+      "representative_snippet": "The biggest story to emerge during the past year was the significant underperformance of emerging market equities relative to U.S. and Non-US developed equity markets."
+    },
+    {
+      "name": "Accounting/GASB Risk",
+      "definition": "New accounting standards or measurement changes may materially impact reported financial statements.",
+      "representative_snippet_id": "CAFR-FY2013.txt_chunk1_snip14",
+      "representative_snippet": "Management has not fully determined what impact, if any, these Statements may have on its financial statements; however, GASB Statements 67 and 68 are expected to have a material impact."
+    }
+  ]
+}

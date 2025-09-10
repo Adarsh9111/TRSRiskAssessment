@@ -1,0 +1,65 @@
+{
+  "year": 2014,
+  "categories": [
+    {
+      "name": "Unfunded Liability",
+      "definition": "Amount by which plan liabilities exceed assets, indicating funding shortfall and required additional contributions.",
+      "representative_snippet_id": "CAFR-FY2014.txt_chunk2_snip12",
+      "representative_snippet": "The additional amount needed (the unfunded actuarial accrued liability) as calculated by the actuary was $61.6 billion in FY14, based on the actuarial value of assets."
+    },
+    {
+      "name": "Actuarial Assumptions",
+      "definition": "Changes to assumptions (e.g., investment return, inflation) that affect liabilities and funded status.",
+      "representative_snippet_id": "CAFR-FY2014.txt_chunk3_snip4",
+      "representative_snippet": "The most significant factor increasing the unfunded liability was the $6.4 billion due to changes in actuarial assumptions, primarily the investment return. The assumed rate of investment return was lowered from 8.0 percent to 7.5 percent. The real rate of return component of the investment return assumption was lowered from 4.75 percent to 4.5 percent, and the inflation component was lowered from 3.25 percent to 3.0 percent."
+    },
+    {
+      "name": "Legal/Litigation Risk",
+      "definition": "Court challenges and legislative changes that may alter benefits or suspend laws, creating uncertainty.",
+      "representative_snippet_id": "CAFR-FY2014.txt_chunk2_snip17",
+      "representative_snippet": "On November 21, 2014, a Sangamon County Circuit Court ruled that Public Act 98-0599 was unconstiutional and void in its entirety. The State, represented by the Illinois attorney general, appealed that decision directly to the Illinois Supreme Court. A decision from the high court is expected during 2015."
+    },
+    {
+      "name": "Contribution Shortfall",
+      "definition": "Differences between actual contributions and actuarially required amounts, increasing unfunded liabilities.",
+      "representative_snippet_id": "CAFR-FY2014.txt_chunk3_snip3",
+      "representative_snippet": "The net increase in the 2014 unfunded liability of $5.9 billion was caused by a combination of factors. The first factor shown in the table is the difference between actual employer/state contributions and the amount that would cover the cost of benefits earned during the year and keep the prior year’s unfunded liability from growing. That shortfall was $1.6 billion."
+    },
+    {
+      "name": "Market Risk",
+      "definition": "Risk that market rate changes (interest, currency, other) will reduce investment values.",
+      "representative_snippet_id": "CAFR-FY2014.txt_chunk2_snip1",
+      "representative_snippet": "Market risk is the possibility that a change in interest, currency or other pertinent market rates will cause the value of a financial instrument to decrease or become more costly to settle."
+    },
+    {
+      "name": "Credit Risk",
+      "definition": "Risk of loss from counterparties or issuers failing to meet obligations on investments or derivatives.",
+      "representative_snippet_id": "CAFR-FY2014.txt_chunk2_snip3",
+      "representative_snippet": "Credit risk is the possibility that a loss may occur because a party to a transaction fails to perform according to the established terms."
+    },
+    {
+      "name": "Derivatives Management",
+      "definition": "Policies and controls for derivatives, collateralization, and netting to manage counterparty exposure.",
+      "representative_snippet_id": "CAFR-FY2014.txt_chunk2_snip7",
+      "representative_snippet": "Because the counterparty risk of a security will fluctuate with market movements, all TRS managers using non-exchange traded derivatives operate a collateral call process ensuring full collateralization of these derivatives."
+    },
+    {
+      "name": "Asset Valuation Smoothing",
+      "definition": "Use of smoothing methods to defer gains/losses, affecting contribution rates and reported asset values.",
+      "representative_snippet_id": "CAFR-FY2014.txt_chunk3_snip2",
+      "representative_snippet": "As of the June 30, 2014 valuation the total net deferral is a $3,673,617,253 gain, resulting in a contribution that is higher than it would be if the assets were valued at market."
+    },
+    {
+      "name": "Reserve/Benefit Mismatch",
+      "definition": "Differences between expected benefit payments and present value of reserves, indicating actuarial or timing issues.",
+      "representative_snippet_id": "CAFR-FY2014.txt_chunk2_snip11",
+      "representative_snippet": "The expected benefit payments do not equal the present value of the reserve."
+    },
+    {
+      "name": "Investment Commitments",
+      "definition": "Future capital commitments to illiquid investments (real estate, private equity) that affect liquidity and funding.",
+      "representative_snippet_id": "CAFR-FY2014.txt_chunk2_snip9",
+      "representative_snippet": "As of June 30, 2014, TRS had commitments for the future purchase of investments in real estate of $819.4 million and private equity partnerships of $3.7 billion."
+    }
+  ]
+}

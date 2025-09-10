@@ -1,0 +1,65 @@
+{
+  "year": 2017,
+  "categories": [
+    {
+      "name": "Funding Adequacy",
+      "definition": "Insufficient state contributions causing large unfunded liabilities and low funded ratio.",
+      "representative_snippet_id": "CAFR-FY2017.txt_chunk1_snip6",
+      "representative_snippet": "The long-term funded status of TRS continues to be among the worst in the nation. At the end of FY17, the System’s funded ratio was 40.2 percent, on an actuarial basis, with a long-term unfunded liability of $73.4 billion. The unfunded obligations owed to members have increased by 544 percent since 2000."
+    },
+    {
+      "name": "Market Risk",
+      "definition": "Risk that market rate changes decrease value or increase settlement costs.",
+      "representative_snippet_id": "CAFR-FY2017.txt_chunk2_snip4",
+      "representative_snippet": "Market risk is the possibility that a change in interest, currency, or other pertinent market rates will cause the value of a financial instrument to decrease or become more costly to settle."
+    },
+    {
+      "name": "Credit/Counterparty Risk",
+      "definition": "Risk of loss if derivative or contract counterparties fail, including concentration among few counterparties.",
+      "representative_snippet_id": "CAFR-FY2017.txt_chunk2_snip7",
+      "representative_snippet": "Although the derivative instruments held within the TRS investment portfolio are executed with various counterparties, approximately 92 percent of the net market value exposure to credit risk is for non-exchange traded derivative contracts held with 10 counterparties."
+    },
+    {
+      "name": "Currency Risk",
+      "definition": "Exchange rate changes adversely impacting fair value of foreign-denominated investments.",
+      "representative_snippet_id": "CAFR-FY2017.txt_chunk2_snip1",
+      "representative_snippet": "Foreign currency risk is the risk that changes in exchange rates will adversely impact the fair value of an investment."
+    },
+    {
+      "name": "Commitment Risk",
+      "definition": "Obligations to provide future capital contributions for private investments creating potential cash requirements.",
+      "representative_snippet_id": "CAFR-FY2017.txt_chunk2_snip8",
+      "representative_snippet": "Investments in certain limited partnerships commit TRS to possible future capital contributions. As of June 30, 2017, TRS had remaining unfunded commitments of $7,061,851,267 within the real estate, other real assets, private equity and global fixed income asset classes."
+    },
+    {
+      "name": "Operational/Technology Risk",
+      "definition": "Failures in system transitions and administration causing resource drains and project delays.",
+      "representative_snippet_id": "CAFR-FY2017.txt_chunk1_snip9",
+      "representative_snippet": "However, since the October 1, 2016 conversion date, there have been serious and recurring problems with the transition of the insurance administration. As this letter is written, TRS still is not able to process a complete monthly benefit payroll through the third-party administrator. Only an extraordinary effort by TRS staff mitigated the impact of the change on the System’s members. This unplanned use of staff time, however, created a significant drain on TRS resources and delayed the planned start of the following projects."
+    },
+    {
+      "name": "Legislative/Plan Design Risk",
+      "definition": "Laws creating new tiers or benefit limits that change obligations, contribution rates, or administration.",
+      "representative_snippet_id": "CAFR-FY2017.txt_chunk1_snip3",
+      "representative_snippet": "Provisions in the FY18 budget legislation affecting TRS create a Tier III hybrid retirement plan that would include a defined benefit pension supplemented by a defined contribution plan."
+    },
+    {
+      "name": "Actuarial Assumption Risk",
+      "definition": "Reliance on assumptions about future contributions, demographics and returns that affect calculated liabilities.",
+      "representative_snippet_id": "CAFR-FY2017.txt_chunk1_snip11",
+      "representative_snippet": "The actuarially determined pension liability, calculated as required by GASB Statements No. 67, is dependent on several assumptions including the assumption that future required contributions from all sources are made based on statutory requirements in existence as of the date of this report."
+    },
+    {
+      "name": "Benefits/Legal Conflicts",
+      "definition": "Potential disputes or unclear law that affect benefit claims and precedence of statutory law.",
+      "representative_snippet_id": "CAFR-FY2017.txt_chunk4_snip1",
+      "representative_snippet": "Conditions involving a claim for benefits may require further clarification."
+    },
+    {
+      "name": "Contribution Collection Risk",
+      "definition": "Differences between estimated and actual payrolls causing collection shortfalls and contribution discrepancies.",
+      "representative_snippet_id": "CAFR-FY2017.txt_chunk4_snip3",
+      "representative_snippet": "Totals shown are rates certified by the TRS Board of Trustees based on estimated payrolls and may not total due to rounding. Actual amounts collected do not equal amounts estimated by actuaries due to differences between estimated and actual payroll."
+    }
+  ]
+}

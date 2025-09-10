@@ -1,0 +1,65 @@
+{
+  "year": 2021,
+  "categories": [
+    {
+      "name": "Pandemic Health Impact",
+      "definition": "Direct health effects and operational disruptions from COVID-19, including member deaths and impacts on education and service delivery.",
+      "representative_snippet_id": "ACFR21-webversion.txt_chunk1_snip5",
+      "representative_snippet": "Since March of 2020, 479 TRS members have succumbed to the virus."
+    },
+    {
+      "name": "Funding Shortfall",
+      "definition": "Large unfunded actuarial liability and inadequate state contributions causing long-term funding gaps.",
+      "representative_snippet_id": "ACFR21-webversion.txt_chunk1_snip3",
+      "representative_snippet": "The System had an actuarial value of $59.0 billion in assets and a long-term benefit obligation of $138.9 billion, which creates an unfunded liability of $79.9 billion."
+    },
+    {
+      "name": "Actuarial Assumptions",
+      "definition": "Reliance on assumptions and statutory contribution methods determining net pension liability and projected contributions.",
+      "representative_snippet_id": "ACFR21-webversion.txt_chunk1_snip13",
+      "representative_snippet": "The actuarially determined net pension liability, calculated as required by GASB Statement No. 67, Financial Reporting for Pension Plans, is dependent on several assumptions including the assumption that future required contributions from all sources are made based on statutory requirements in existence as of the date of this report."
+    },
+    {
+      "name": "Derivative Counterparty Risk",
+      "definition": "Credit exposure from non-exchange traded derivatives and concentration with a few counterparties.",
+      "representative_snippet_id": "ACFR21-webversion.txt_chunk2_snip8",
+      "representative_snippet": "Although the derivative instruments held within the TRS investment portfolio are executed with various counterparties, approximately 95 percent of the net market value exposure to credit risk is for non-exchange traded derivative contracts held with 10 counterparties."
+    },
+    {
+      "name": "Investment Illiquidity",
+      "definition": "Long-term commitments, redemption restrictions, and illiquid private investments limiting quick asset liquidation.",
+      "representative_snippet_id": "ACFR21-webversion.txt_chunk2_snip11",
+      "representative_snippet": "Investments in limited partnerships are normally long-term with an approximate life of 10 to 15 years and considered illiquid. Investors are subject to redemption restrictions that limit and restrict the ability of limited partners to exit prior to dissolution."
+    },
+    {
+      "name": "Buyout Contingency",
+      "definition": "Accelerated benefit buyouts dependent on availability of bond proceeds and authorization limits.",
+      "representative_snippet_id": "ACFR21-webversion.txt_chunk4_snip1",
+      "representative_snippet": "Buyout payments are contingent upon sufficient bond proceeds being available."
+    },
+    {
+      "name": "Cybersecurity Risk",
+      "definition": "Threats to confidentiality and security of member and employer data, amplified by remote work.",
+      "representative_snippet_id": "ACFR21-webversion.txt_chunk1_snip12",
+      "representative_snippet": "Because pension systems provide tempting targets, the TRS Board of Trustees understands that it is imperative for the System to keep the private information of 432,314 men, women and their families, as well as 991 employers as safe and secure as possible."
+    },
+    {
+      "name": "Interest Rate Risk",
+      "definition": "Sensitivity of investment and swap fair values to changes in interest and inflation rates.",
+      "representative_snippet_id": "ACFR21-webversion.txt_chunk1_snip21",
+      "representative_snippet": "Interest rate risk is the risk that changes in interest rates will adversely affect the fair value of an investment."
+    },
+    {
+      "name": "Concentration Risk",
+      "definition": "Loss risk from large holdings in a single issuer or insufficient custodial protections.",
+      "representative_snippet_id": "ACFR21-webversion.txt_chunk1_snip19",
+      "representative_snippet": "Concentration of credit risk is the risk of loss that may be attributed to the magnitude of an investment in any one issuer."
+    },
+    {
+      "name": "Management Turnover",
+      "definition": "Leadership departures and staff changes that may affect operations and institutional knowledge.",
+      "representative_snippet_id": "ACFR21-webversion.txt_chunk1_snip10",
+      "representative_snippet": "Also during the fiscal year, the TRS executive staff saw the departures of the chief financial officer, chief legal counsel, chief technology officer and chief human resources officer."
+    }
+  ]
+}

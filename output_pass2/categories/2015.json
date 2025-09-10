@@ -1,0 +1,65 @@
+{
+  "year": 2015,
+  "categories": [
+    {
+      "name": "Unfunded Liability",
+      "definition": "Insufficient assets to cover projected benefit obligations.",
+      "representative_snippet_id": "CAFR-FY2015.txt_chunk2_snip19",
+      "representative_snippet": "The expected benefit payments do not equal the present value of the reserve. The additional amount needed (the unfunded actuarial accrued liability) as calculated by the actuary was $62.7 billion in FY15, based on the actuarial value of assets."
+    },
+    {
+      "name": "State Payment Risk",
+      "definition": "Risk state may not remit authorized contributions timely or fully.",
+      "representative_snippet_id": "CAFR-FY2015.txt_chunk1_snip18",
+      "representative_snippet": "As a result, while the State Comptroller’s Office has indicated its intent to fully pay the state’s FY16 contribution to TRS, it is not certain whether state government always will be able to remit the authorized contribution on a timely basis during FY16."
+    },
+    {
+      "name": "Investment Market Risk",
+      "definition": "Exposure to credit, market, and interest rate fluctuations affecting investment values.",
+      "representative_snippet_id": "CAFR-FY2015.txt_chunk1_snip12",
+      "representative_snippet": "Investment securities are exposed to a variety of risk including credit, market and interest rate risk."
+    },
+    {
+      "name": "Derivatives Counterparty Risk",
+      "definition": "Potential loss if derivative counterparties fail to perform contractual obligations.",
+      "representative_snippet_id": "CAFR-FY2015.txt_chunk2_snip11",
+      "representative_snippet": "Non-exchange traded derivative instruments may expose TRS to credit/counterparty risk."
+    },
+    {
+      "name": "Foreign Currency Risk",
+      "definition": "Exchange rate changes may adversely affect investment fair values.",
+      "representative_snippet_id": "CAFR-FY2015.txt_chunk1_snip20",
+      "representative_snippet": "Foreign currency risk is the risk that changes in exchange rates will adversely impact the fair value of an investment."
+    },
+    {
+      "name": "Securities Lending Risk",
+      "definition": "Maturity mismatches and collateral dynamics in securities lending can create liquidity risk.",
+      "representative_snippet_id": "CAFR-FY2015.txt_chunk2_snip15",
+      "representative_snippet": "Since loans are terminable at will, the maturity of loans generally does not match the maturity of collateral investments."
+    },
+    {
+      "name": "Actuarial Measurement Risk",
+      "definition": "Future actuarial results may differ due to assumptions, methodology, or law changes.",
+      "representative_snippet_id": "CAFR-FY2015.txt_chunk3_snip2",
+      "representative_snippet": "Future actuarial measurements may differ significantly from the current measurement presented in this report due to such factors as:  plan experience different from that anticipated by the economic and demographic assumptions; increases or decreases expected as part of the natural operation of the methodology used for these measurements; and changes in plan provisions or applicable law."
+    },
+    {
+      "name": "Contribution Method Risk",
+      "definition": "Differences between statutory contribution methods and actuarial required contributions create funding shortfalls.",
+      "representative_snippet_id": "CAFR-FY2015.txt_chunk2_snip23",
+      "representative_snippet": "There is a difference between these amounts because actual contributions are based on state statute under a methodology that does not conform to that used to determine the actuarially-determined contribution."
+    },
+    {
+      "name": "Performance Shortfall",
+      "definition": "Investment returns lag the actuarial return and policy benchmarks.",
+      "representative_snippet_id": "CAFR-FY2015.txt_chunk2_snip22",
+      "representative_snippet": "The fund’s total return also lagged the 7.5 percent actuarial return assumption and the real rate of return expectation, which is to exceed the rate of inflation, as measured by the Consumer Price Index, by 4.5 percentage points."
+    },
+    {
+      "name": "Custodial Credit Risk",
+      "definition": "Deposits may not be returned if a depository institution fails.",
+      "representative_snippet_id": "CAFR-FY2015.txt_chunk1_snip19",
+      "representative_snippet": "Custodial credit risk for deposits is the risk that, in the event of a bank failure, TRS’s deposits may not be returned."
+    }
+  ]
+}

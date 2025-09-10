@@ -1,0 +1,65 @@
+{
+  "year": 2023,
+  "categories": [
+    {
+      "name": "State Funding Shortfall",
+      "definition": "Inadequate state contributions lowering funding ratio and increasing unfunded liabilities.",
+      "representative_snippet_id": "ACFR23 WEB_0.txt_chunk3_snip2",
+      "representative_snippet": "The State funding has been inadequate, resulting in TRS being among the worst funded public employee retirement systems in the United States."
+    },
+    {
+      "name": "Actuarial Losses",
+      "definition": "Adverse actuarial experience producing net losses and increasing liabilities.",
+      "representative_snippet_id": "ACFR23 WEB_0.txt_chunk3_snip6",
+      "representative_snippet": "The valuation indicates that for the fiscal year ended June 30, 2023, the actuarial experience of TRS generated a net actuarial loss of $717 million."
+    },
+    {
+      "name": "Market Risk",
+      "definition": "Changes in interest, currency, or market rates reducing investment values.",
+      "representative_snippet_id": "ACFR23 WEB_0.txt_chunk2_snip1",
+      "representative_snippet": "Market risk is the possibility that a change in interest, currency or other pertinent market rates will cause the value of a financial instrument to decrease or become more costly to settle."
+    },
+    {
+      "name": "Credit/Counterparty Risk",
+      "definition": "Counterparties failing to perform, affecting derivatives and non-exchange investments.",
+      "representative_snippet_id": "ACFR23 WEB_0.txt_chunk2_snip3",
+      "representative_snippet": "Non-exchange traded derivative instruments may expose TRS to credit/counterparty risk."
+    },
+    {
+      "name": "Securities Lending Risk",
+      "definition": "Risks from securities lending, including maturity mismatches and collateral reporting limitations.",
+      "representative_snippet_id": "ACFR23 WEB_0.txt_chunk2_snip6",
+      "representative_snippet": "Because loans are terminable at will, the maturity of loans generally does not match the maturity of collateral investments."
+    },
+    {
+      "name": "Illiquidity and Commitments",
+      "definition": "Large unfunded commitments and long-lived illiquid partnership investments limiting liquidity.",
+      "representative_snippet_id": "ACFR23 WEB_0.txt_chunk2_snip8",
+      "representative_snippet": "As of June 30, 2023, TRS had remaining unfunded commitments of $14,125,830,088 within the real estate, other real assets, private equity, diversifying strategies and global income asset classes."
+    },
+    {
+      "name": "Estimates and Data Accuracy",
+      "definition": "Financial and actuarial results rely on management estimates and underlying data, which may differ from actual outcomes.",
+      "representative_snippet_id": "ACFR23 WEB_0.txt_chunk1_snip12",
+      "representative_snippet": "The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements as well as the reported amounts of additions to and deductions from net position during the reporting period. Actual results could differ from these estimates."
+    },
+    {
+      "name": "Policy and Control Gaps",
+      "definition": "Missing or incomplete policies increasing operational, reporting, or financial exposure.",
+      "representative_snippet_id": "ACFR23 WEB_0.txt_chunk2_snip4",
+      "representative_snippet": "TRS does not have a policy regarding master netting arrangements."
+    },
+    {
+      "name": "Contingent Benefit Obligations",
+      "definition": "Temporary buyouts and benefit options contingent on bond proceeds or other conditions, creating potential liabilities.",
+      "representative_snippet_id": "ACFR23 WEB_0.txt_chunk3_snip12",
+      "representative_snippet": "Until June 30, 2026, inactive members with five years of TRS service can take a lump-sum payment of 60% of the present value of their future benefit payments. Buyout payments are contingent upon sufficient bond proceeds being available."
+    },
+    {
+      "name": "Custodial Credit Risk",
+      "definition": "Risk that deposits may not be returned in the event of a bank failure.",
+      "representative_snippet_id": "ACFR23 WEB_0.txt_chunk1_snip8",
+      "representative_snippet": "Custodial credit risk for deposits is the risk that, in the event of a bank failure, TRS’s deposits may not be returned."
+    }
+  ]
+}
